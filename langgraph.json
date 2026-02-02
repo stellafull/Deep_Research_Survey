@@ -1,0 +1,11 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "survey_research": "src/backend/survey_agent/survey_agent.py:survey_research"
+  },
+  "python_version": "3.12",
+  "env": ".env",
+  "dependencies": [
+      "."
+  ]
+}
