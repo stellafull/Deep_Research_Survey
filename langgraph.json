@@ -1,7 +1,7 @@
 {
   "dockerfile_lines": [],
   "graphs": {
-    "scope_research": "src/backend/survey_agent/survey_agent_scope.py:scope_research"
+    "survey_research": "src/backend/survey_agent/survey_agent.py:survey_research"
   },
   "python_version": "3.12",
   "env": ".env",

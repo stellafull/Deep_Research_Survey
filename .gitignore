@@ -4,13 +4,21 @@ __pycache__/
 build/
 dist/
 wheels/
-*.egg-info
+*.egg-infox
 
 # Virtual environments
 .venv
+uv.lock
+.python-version
 
 # Environment variables
 .env
 
 # agents.md
 agents.md
+
+# LangGraph files
+.langgraph_api/
+
+data/
+research.db
